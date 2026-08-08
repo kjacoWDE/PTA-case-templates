@@ -1,0 +1,80 @@
+{
+  "case": {
+    "id": "S1",
+    "number": "S1",
+    "title": "",
+    "lede": "",
+    "duration": ""
+  },
+  "patient": {
+    "initials": "",
+    "name": "",
+    "subtitle": ""
+  },
+  "conversation": {
+    "interview": [
+      {
+        "question": "",
+        "answer": "",
+        "sinss_dimension": ""
+      }
+    ],
+    "plan": [
+      {
+        "question": "",
+        "answer": "",
+        "sinss_dimension": ""
+      }
+    ]
+  },
+  "sinss": {
+    "severity": {
+      "label": "",
+      "explanation": ""
+    },
+    "irritability": {
+      "label": "",
+      "explanation": ""
+    },
+    "nature": {
+      "label": "",
+      "explanation": ""
+    },
+    "stage": {
+      "label": "",
+      "explanation": ""
+    },
+    "stability": {
+      "label": "",
+      "explanation": ""
+    },
+    "summary": ""
+  },
+  "interventions": {
+    "choices": [
+      {
+        "id": "",
+        "label": "",
+        "selected": false,
+        "rationale": "",
+        "safety_notes": ""
+      }
+    ],
+    "incorrect_feedback": {
+      "too_aggressive": "",
+      "too_passive": "",
+      "not_indicated": ""
+    }
+  },
+  "learning": {
+    "objectives": [],
+    "red_flags": [],
+    "contraindications": []
+  },
+  "metadata": {
+    "source_repo": "kjacoWDE/PTAWixCase_1",
+    "template_repo": "kjacoWDE/PTA-case-templates",
+    "schema_version": "1.0",
+    "last_updated": "2026-08-08"
+  }
+}
